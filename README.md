@@ -16,8 +16,8 @@ The calculate method takes an optional `upward_force` parameter. When you do not
 
 ## Disclaimers
 
-> Since this repo is a quick production, no helpful error checking is provided. If you get a "non-square matrix" numpy error, some of the node or brace connections may be missing or incorrect.
+* Since this repo is a quick production, no helpful error checking is provided. If you get a "non-square matrix" numpy error, some of the node or brace connections may be missing or incorrect.
 
-> Also, this code may not be very efficent for solving large structures. It uses a lot of different numpy linear algebra functions, and the mathematical functions are not collapsed for maximum efficency.
+* Also, this code may not be very efficent for solving large structures. It uses a lot of different numpy linear algebra functions, and the mathematical functions are not collapsed for maximum efficency.
 
 
