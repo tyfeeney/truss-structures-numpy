@@ -1,5 +1,7 @@
 # truss-structures-numpy
 
+project.py provides the constructors and methods, while client.py provides example code for the 4 joint and 4 beam problem.
+
 ## This repo calculates forces in a truss structure by using linear algebra features of the numpy package. The code creates a few simple classes:
 
 > `Node n1 = new Node("n1",0,0)` creates a new node at position (0,0) named "n1".
